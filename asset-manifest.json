@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.css": "/mern-todolist/static/css/main.31d6cfe0.css",
+    "main.js": "/mern-todolist/static/js/main.c4d2c783.js",
+    "index.html": "/mern-todolist/index.html",
+    "main.c4d2c783.js.map": "/mern-todolist/static/js/main.c4d2c783.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.31d6cfe0.css",
+    "static/js/main.c4d2c783.js"
+  ]
+}
